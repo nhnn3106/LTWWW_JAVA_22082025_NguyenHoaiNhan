@@ -12,6 +12,7 @@
 <a href="bai02">bai02</a><br>
 <a href="bai03">bai03</a><br>
 <a href="bai04">bai04</a><br>
+<a href="register">bai05</a><br>
 
 </body>
 </html>
