@@ -1,4 +1,4 @@
-package iuh.fit.se;
+package iuh.fit.se.servlet;
 
 import java.io.*;
 
